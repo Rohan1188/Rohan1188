@@ -51,25 +51,6 @@ I'm a passionate developer with a keen interest in building innovative solutions
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1188&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 Notable Projects
-
-### 🌟 [Project Name 1](link-to-repo)
-Brief description of your most impressive project. Highlight the technologies used and the problem it solves.
-- **Tech Stack:** React, Node.js, MongoDB
-- **Features:** Key features of the project
-- **Impact:** What problem it solves or its significance
-
-### 🌟 [Project Name 2](link-to-repo)
-Another significant project that showcases your skills.
-- **Tech Stack:** Python, Flask, MySQL
-- **Features:** Key functionalities
-- **Learning:** What you learned from this project
-
-### 🌟 [Project Name 3](link-to-repo)
-A project that demonstrates your problem-solving abilities.
-- **Tech Stack:** JavaScript, API Integration
-- **Features:** Core features
-- **Achievement:** Any recognition or metrics
 
 ## 🎯 Achievements & Interests
 
