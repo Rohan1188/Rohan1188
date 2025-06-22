@@ -10,7 +10,7 @@ I'm a passionate developer with a keen interest in building innovative solutions
 - 🔭 Currently working on exciting projects and learning new technologies
 - 🌱 Always learning and growing in the tech space
 - 💬 Ask me about development, coding, and tech trends
-- 📫 How to reach me: [Your Email] | [Your LinkedIn]
+- 📫 How to reach me: Rohankushwaha1432@gmail.com
 - ⚡ Fun fact: I believe in continuous learning and sharing knowledge with the community
 
 ## 🛠️ Tech Stack & Skills
